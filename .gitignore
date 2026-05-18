@@ -1,6 +1,6 @@
 #Python
 _pycache_/
-*_pycache_
+*.pyc
 *pyo 
 *pyd
 
