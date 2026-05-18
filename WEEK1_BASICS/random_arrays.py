@@ -20,6 +20,7 @@ print("random choice", arr4)
 #shuffling arrays
 arr5=np.random.seed(42) #to reproduce
 arr5=np.arange(5)
+arr5=np.random.rand(3,3)
 np.random.shuffle(arr5) 
 print("reproduce arrays\n" , arr5)
 
